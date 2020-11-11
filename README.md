@@ -1,19 +1,10 @@
-<h1>NestJS Boilerplate
-  <a
-    href="http://nestjs.com/"
-    target="blank"
-  >
-    <img
-      src="https://nestjs.com/img/logo_text.svg"
-      width="65"
-      alt="Nest Logo"
-    />
-  </a>
-</h1>
 
 ## Description
 
-[NestJS](https://github.com/nestjs/nest) Boilerplate made with ❤️ by [💡VivifyIdeas💡](https://www.vivifyideas.com).
+[NestJS](https://github.com/nestjs/nest) Boilerplate made by [💡VivifyIdeas💡](https://www.vivifyideas.com)
+I integrated Nuxt.js with it.
+Nuxt.js SSR with Nest.js.
+
 
 ## Start Guide
 
