@@ -2,7 +2,7 @@
 ## Description
 
 [NestJS](https://github.com/nestjs/nest) Boilerplate made by [💡VivifyIdeas💡](https://www.vivifyideas.com)
-I integrated Nuxt.js with it.
+I added Nuxt.js to it.
 Nuxt.js SSR with Nest.js.
 
 
